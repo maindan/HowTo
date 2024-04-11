@@ -40,7 +40,7 @@ footer .footer-links ul a{
     content: "";
     width: 0%;
     height: 0;
-    background: white;
+    background: rgb(255, 130, 136);
     position: absolute;
     bottom: 0;
     left: 0;
