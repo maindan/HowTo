@@ -8,6 +8,10 @@ body {
     background: #E5E5E5;
 }
 
+nav .dropdown-item:hover {
+    opacity: 50%;
+}
+
 footer {
     background: #212529;
 }
