@@ -38,10 +38,9 @@ document.addEventListener("DOMContentLoaded", () => {
             .then(response => response.json())
             .then(data => {
                 data.forEach((post) => {
-                    console.log(data)
-                    console.log(post)
                     if(post.id == postid) {
-                        contPost.innerHTML += createPost(post.img_url, post.title);
+                        const textObj = post.text[0];
+                        contPost.innerHTML += createPost(post.img_url, post.title, post.description, textObj);
                     }
                 });
             })
@@ -73,13 +72,25 @@ document.addEventListener("DOMContentLoaded", () => {
         return card;
     }
 
-    function createPost(img_url, title) {
+    function createPost(img_url, title, description, textObj) {
         let post = `
         <div class="card" style="width: 40rem;">
             <img src="${img_url}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h3 class="card-title">${title}</h3>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">${description}</p>
+        `;
+        for (const key in textObj) {
+            if (textObj.hasOwnProperty(key)) {
+                const value = textObj[key];
+                post += `
+                    <h2>${key}</h2>
+                    <p>${value}</p>
+                `;
+            }
+        }
+    
+        post += `
             </div>
         </div>
         `;

@@ -9,15 +9,17 @@ function redirectPost(postid) {
 document.addEventListener("DOMContentLoaded", () => {
 
     const contCards = document.querySelector(".container-cards");
-    const catCards = document.querySelector(".container-categ")
+    const catCards = document.querySelector(".container-categ");
 
     fetch("./assets/posts.json")
         .then(response => response.json())
         .then(data => {
             let totalItems = data.length;
+
+
             let items = [];
             let recomendados = [];
-            while (items.length != 4) {
+            while (items.length < 4) {
                 let value = getRandomInt(totalItems)
                 if (!items.includes(value)) {
                     items.push(value);
@@ -32,7 +34,6 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log(items)
             console.log(recomendados)
             data.forEach((post) => {
-                console.log(post.id)
                 items.forEach((item) => {
                     if (post.id == item) {
                         let img_url = post.img_url.split("../");
@@ -95,5 +96,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function getRandomInt(max) {
         return Math.floor(Math.random() * max);
+    }
+
+    function randomic() {
+        // let rand = [0, 1, 2, 3, 4, 5, 6]
+        // let n = getRandomInt(10)
+        // console.log(n)
+        redirectPost(5)
     }
 })
