@@ -29,7 +29,7 @@
                             <a class="nav-link" href="../index.html">Home</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Aleatório</a>
+                            <a class="nav-link" href="random.html">Aleatório</a>
                         </li>
                         <li class="nav-item dropdown mb-1">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -37,17 +37,21 @@
                                 Categorias
                             </a>
                             <ul class="dropdown-menu" style="background: #F8F9FA;">
-                                <li><a class="dropdown-item" href="#">Animais</a></li>
-                                <li><a class="dropdown-item" href="#">Artesanato</a></li>
-                                <li><a class="dropdown-item" href="#">Casa</a></li>
-                                <li><a class="dropdown-item" href="#">Culinaria</a></li>
-                                <li><a class="dropdown-item" href="#">Informática</a></li>
-                                <li><a class="dropdown-item" href="#">Saúde</a></li>
+                                <li><a class="dropdown-item" href="#" onClick="redirectCategory('animais')">Animais</a>
+                                </li>
+                                <li><a class="dropdown-item" href="#"
+                                        onClick="redirectCategory('artesanato')">Artesanato</a></li>
+                                <li><a class="dropdown-item" href="#" onClick="redirectCategory('casa')">Casa</a></li>
+                                <li><a class="dropdown-item" href="#"
+                                        onClick="redirectCategory('culinaria')">Culinaria</a></li>
+                                <li><a class="dropdown-item" href="#"
+                                        onClick="redirectCategory('informatica')">Informática</a></li>
+                                <li><a class="dropdown-item" href="#" onClick="redirectCategory('saude')">Saúde</a></li>
                             </ul>
                         </li>
                     </ul>
                 </div>
-                <button class="btn btn-secondary"><a href="../pages/post_create.html" class="nav-link"><i
+                <button class="btn btn-secondary"><a href="./post_create.html" class="nav-link"><i
                             class="bi bi-hand-thumbs-up"> </i>Criar
                         Post</a></button>
             </div>
