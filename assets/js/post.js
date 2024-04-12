@@ -18,26 +18,8 @@ function coletarDadosDoFormulario() {
             texto: texto,
             img_url: img_url
         }
-
-        fetch(url, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(dados)
-        })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error("Ocorreu um erro ao criar o post.");
-            }
-            return response.json();
-        })
-        .then(data => {
-            console.log('Post criado com sucesso:', data);
-        })
-        .catch(error => {
-            console.error('Erro:', error);
-        });
+        console.log(dados);
+       
 })}
 
 coletarDadosDoFormulario();
