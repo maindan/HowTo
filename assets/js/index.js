@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 items = items.sort();
                 items.forEach((item) => {
                     if (post.id == item) {
-                        contCards.innerHTML += createCard(post.id, post.category, post.title, post.img_url);
+                        const img_url = post.img_url.split("../");
+                        contCards.innerHTML += createCard(post.id, post.category, post.title, img_url[1]);
                     }
                 });
             });
