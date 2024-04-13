@@ -1,9 +1,9 @@
 function redirectCategory(idCat) {
-    window.location.href = `./pages/categoria.html?categoria=${idCat}`;
+    window.location.href = `pages/categoria.html?categoria=${idCat}`;
 }
 
 function redirectPost(postid) {
-    window.location.href = `../pages/random.html?postid=${postid}`;
+    window.location.href = `pages/random.html?postid=${postid}`;
 }
 
 function randomic() {
@@ -16,7 +16,7 @@ function randomic() {
             data.forEach((post) => {
                 if(post.id == id) {
                     console.log("cheguei aqui")
-                    window.location.href = `../pages/random.html?postid=${post.id}`;
+                    window.location.href = `./pages/random.html?postid=${post.id}`;
                 }
             })
         });
