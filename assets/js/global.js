@@ -1,12 +1,6 @@
 
-function redirectCategory(idCat, ...par) {
-    
-    if(par == "newpost") {
-        window.location.href = `./pages/categoria.html?categoria=${idCat}`;
-    } 
-    else {
-        window.location.href = `categoria.html?categoria=${idCat}`;
-    }
+function redirectCategory(idCat) {
+    window.location.href = `categoria.html?categoria=${idCat}`;
 }
 
 function redirectPost(postid) {
