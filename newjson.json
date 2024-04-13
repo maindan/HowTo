@@ -14,56 +14,428 @@
         ]
     },
     {
-        "id":"2",
+        "id":"3",
         "category":"animais",
         "title":"Como Dar um Banho em Seu Hamster",
-        "img_url":"../assets/images/2.jpg",
-        "description":"Seu quarto está fedendo a chiqueiro por causa da gaiola do seu hamster?",
+        "img_url":"../assets/images/3.jpg",
+        "description":"Macacos selvagens podem causar problemas quando entram em áreas residências procurando comida.",
         "text":[
             {
-                "1":"Evite dar banho no seu hamster, se possível. Só faça isso se algo estiver grudado no pelo ou se ele tiver entrado em contato com algum produto químico tóxico. O banho com água remove os óleos naturais dele e pode fazer muito mal!",
-                "2":"Limpe a gaiola com mais frequência. A melhor forma de lidar com um hamster malcheiroso é limpar a gaiola mais vezes. Antes apelar para um banho, mude a rotina de limpeza e veja se o odor melhora.",
-                "3":"Veja se seu hamster realmente precisa de um banho. Isso só deve ser feito se houver algo no pelo dele que possa prejudicá-lo, como uma substância tóxica ou grudenta, ou ainda alguma coisa com a qual ele possa se engasgar ao tentar limpar sozinho.",
-                "":"",
+                "1":"Não alimente os macacos. Além de garantir que não existem restos de comida e os locais com muito lixo não são de fácil acesso aos macacos, ninguém deve dar alimento aos animais. Do contrário, eles voltarão para comer; tente evitar com que consigam chegar a uma área urbana em que haja alimentos, de forma que continuem explorando o habitat natural deles em busca de comida.",
+                "2":"Pegue frutas das árvores. Caso tenha árvores frutíferas em sua casa (ou na vizinhança), lembre-se de que elas também são fontes de alimento para os macacos. Dessa forma, é importante retirar as frutas o quanto antes para diminuir a possibilidade de que os animais consigam encontrá-las.",
+                "3":"Dificulte o acesso dos macacos às casas. Além de fechar bem sacos e latas de lixo, será necessário impossibilitar na casa a entrada dos primatas em busca de alimento. Feche bem todas as janelas e, se necessário, coloque uma tela. Deixar a comida longe da vista dos animais fará com que não tentem adentrar as residências.",
+                "4":"Comunique o problema à vizinhança. Pessoas que moram em uma região de fronteira com matas e florestas com macacos deverão conscientizar os vizinhos para que saibam o que fazer e não chamar a atenção dos macacos à área residencial. Fechar bem as latas e os sacos de lixo, proteger janelas e não alimentar esses animais é importante, mas todos deverão estar cientes de que precisam fazer o mesmo, ou esse problema não será resolvido. Portanto, reúna os vizinhos e explique como evitar que os macacos sejam atraídos ao local e como lidar com isso."
             }
         ]
     },
     {
-        "id":"1",
+        "id":"4",
         "category":"animais",
-        "title":"Título",
-        "img_url":"../assets/images/duck1.jpg",
-        "description":"lalaland lalaland lalaland",
+        "title":"Como Se Comunicar com seu Gato",
+        "img_url":"../assets/images/3.jpg",
+        "description":"Compreender como seu gato está se comunicando com você",
         "text":[
             {
-                "1":"sadjklcnjksdcd",
-                "2":"aaaaaaaaaaaaa"
+                "1":"Observe a cauda. Assim como os cães, os gatos se comunicam com o posicionamento e o movimento da cauda. Saber os sinais da posição da cauda em conjunto com as vocalizações pode ajudá-lo a entender as necessidades e os desejos do animal.",
+                "2":"Olhe para os olhos dele. Isso pode ajudar a se conectar com o felino e a ler os sentimentos dele. Saiba, no entanto, que encarar direto sem piscar pode ser interpretado como uma posição de agressividade que deixará o gato desconfortável.",    
+                "3":"Observe outros sinais corporais. Como os gatos são mais fluentes que os humanos na linguagem corporal, alguns gestos acompanharão vocalizações para reforçar a mensagem deles.",
+                "4":"Identifique comportamentos comunicativos. Parte da comunicação de um gato é baseada em como ele se comporta próximo a você, enquanto alguns comportamentos têm significado constante entre a maioria dos bichanos.",
+                "5":"Converse com ele. Os gatos estão sempre aprendendo como se comunicar conosco. Quanto mais se comunicar com o seu, mais rápido ele vai aprender."
             }
         ]
     },
     {
-        "id":"1",
+        "id":"5",
         "category":"animais",
-        "title":"Título",
-        "img_url":"../assets/images/duck1.jpg",
-        "description":"lalaland lalaland lalaland",
+        "title":"Como Evitar arranhões de Gatos",
+        "img_url":"../assets/images/5.jpg",
+        "description":"Os gatos podem ser brincalhões, excêntricos e ocasionalmente agressivos.",
         "text":[
             {
-                "1":"sadjklcnjksdcd",
-                "2":"aaaaaaaaaaaaa"
+                "1":"Não puna o gato por arranhá-lo. Esse comportamento é normal na defesa do animal e agredi-lo por isso pode piorar o nível de agressividade dele.",
+                "2":"Apare as garras do gato. Qualquer cortador de unhas pode ser utilizado para aparar as unhas do animal; fazer isso uma vez por semana podem minimizar o dano causado por arranhões futuros.",
+                "3":"Evite brincadeiras muito “agressivas”. Evite incentivar que o animal brinque com as garras, de forma muito violenta, pois isso faz com que ele tente arranhar e morder tanto o dono quanto outras pessoas.",
+                "4":"Adote um gato mais velho. A maioria dos gatos deixam para trás os hábitos de arranhar e morder após a fase jovem e ao chegarem à vida adulta, que é entre um a dois anos de idade. Indivíduos sensíveis aos arranhões ou com problemas imunológicos devem analisar a possibilidade de adotar um gato mais velho e não um filhote."
+
             }
         ]
     },
     {
-        "id":"1",
+        "id":"6",
         "category":"animais",
-        "title":"Título",
-        "img_url":"../assets/images/duck1.jpg",
-        "description":"lalaland lalaland lalaland",
+        "title":"Como Ajudar Sua Chihuahua Durante o Parto",
+        "img_url":"../assets/images/5.jpg",
+        "description":"Os chihuahuas são cães de porte pequeno e, por conta disso, o processo do parto deles pode envolver algumas complicações.",
         "text":[
             {
-                "1":"sadjklcnjksdcd",
-                "2":"aaaaaaaaaaaaa"
+                "1":"Compreenda a progressão natural da gestação em chihuahuas. O período médio de gravidez para um cão varia de 58 a 68 dias. Tente identificar o dia da concepção para prever a data do parto. Os chihuahuas costumam nascer após oito semanas.",
+                "2":"Leve a chihuahua até o veterinário. Se deseja cruzá-la deliberadamente, é importante fazer um check-up veterinário antes; repita a visita um mês após o início da gestação. Se a prenhez não for planejada, entretanto, leve a cadela ao veterinário assim que descobrir que ela está prenhe.",
+                "3":"Compre leite artificial com antecedência. Se um filhote tiver problemas com a amamentação, é bom ter um leite por perto, pois é preciso alimentá-los a cada duas ou quatro horas.",
+                "4":"Isole a mãe nas três semanas que antecedem o parto. Para evitar a contração de doenças e proteger a mãe e os filhotes, mantenha-a longe de outros cães por pelo menos três semanas antes da data esperada para o parto.",
+                "5":"Prepare o local do parto. Uma semana antes da data esperada para a chegada dos filhotes, monte uma caixa em um ambiente calmo e relativamente fechado. A caixa ajudará a proteger os filhotes durante o parto e no início da vida deles, mantendo-os seguros.",
+                "6":"Observe o comportamento da cadela. Quanto mais próximo o parto, maiores são as chances da mamãe tentar se isolar. Trata-se de um comportamento normal e esperado nas últimas semanas de gestação. Obviamente, como cada animal é diferente, algumas cadelas costumam ficar mais carentes.",
+                "7":"Observe a mãe e os filhotes atentamente. É normal que os filhotes nasçam com a cabeça ou a cauda para baixo.[14] Ao saírem da cadela, eles estarão dentro de sacos amnióticos separados, que devem ser rasgados por ela. Em seguida, ela morderá o cordão umbilical e lamberá o filhote. Deixe que faça isso sem interferir, pois o processo faz parte da conexão entre mãe e filho. Dê alguns minutos para que ela pegue o jeito, principalmente se for o primeiro parto dela."
+            }
+        ]
+    },
+    {
+        "id":"7",
+        "category":"animais",
+        "title":"Como Determinar o Sexo do seu Hamster",
+        "img_url":"../assets/images/7.jpg",
+        "description":"Já se perguntou se um hamster é macho ou fêmea, mas não consegue distinguir os gêneros de jeito nenhum?",
+        "text":[
+            {
+                "1":"Espere pelo momento certo de analisar o hamster. Para determinar o sexo dele, é preciso examinar a parte inferior e traseira do roedor; muito provavelmente, a melhor hora é quando ele estiver alerta e relaxado, pois pegar um hamster adormecido ou agitado é uma ótima maneira de ser mordido.",
+                "2":"Pegue uma tigela grande ou caixa com uma toalha dentro. Dessa forma, se o hamster ficar nervoso e escapar de sua mão, ele cairá em um lugar macio e evitará que ele fuja.",
+                "3":"Pegue o hamster pelo “cangote”. Para evitar que o hamster fuja, aproxime-se dele de forma calma, sem assustá-lo. Coloque a palma de uma mão sobre o animal, apoiando o polegar e o indicador na pele sobre as omoplatas. Com cuidado, pegue a pele logo acima das omoplatas entre o polegar e o indicador, controlando a cabeça e evitando que ele o morda.",
+                "4":"Pegue e vire o hamster. Use o resto da mão para apoiar o corpo do roedor; com a mão livre para apoiar o peso, erga-o e vire-o de forma que o corpo do animal repouse na palma da mão que está segurando o “cangote” dele. Nesse momento, todo o corpo dele deverá estar apoiado.",
+                "5":"Analise o tamanho do hamster. Geralmente, os machos são maiores que as fêmeas. Caso não tenha outro hamster para comparar, essa técnica não será muito útil para determinar o sexo dele; do contrário, basta analisar o tamanho dos animais. Apesar de não ser algo definitivo, o dono terá uma melhor ideia se o animal é macho ou fêmea.",
+                "6":"Analise a parte inferior do hamster, perto da cauda. A maturidade sexual dessa espécie é alcançada após cerca de 35 dias de idade; depois disso, é muito mais simples determinar as diferenças de gênero em hamsters.[5] Os machos terão testículos proeminentes, deixando essa área do corpo protuberante e semelhante ao formato de uma amêndoa enquanto as fêmeas, não terão nenhuma saliência na área das “nádegas”."
+            }
+        ]
+    },
+    {
+        "id":"8",
+        "category":"animais",
+        "title":"Como Fugir de um Touro",
+        "img_url":"../assets/images/8.jpg",
+        "description":"Touros são animais muito perigosos.",
+        "text":[
+            {
+                "1":"Evite entrar em qualquer pasto onde esteja um touro ou outras vacas. Isso é questão de bom senso. Não tente atravessar um caminho que tem um touro só por ser mais rápido passar por ele. Melhor demorar mais pra chegar onde você quer do que correr o risco de ser atacado por um touro.",
+                "2":"Observe os alertas. Se você precisar passar pelo território do touro, saiba que o animal pode vê-lo como uma ameaça e alertá-lo para se afastar.",
+                "3":"Entenda que alguns touros podem ir atrás de você sem serem percebidos. Esses touros são ainda mais perigosos que os que dão os alertas. Permaneça atento.",
+                "4":"Na dúvida, leve uma arma consigo. Essa arma deve ser uma vara espessa que não se quebre no impacto, um cabo de machado, um pedaço comprido de PVC ou coisa do tipo; qualquer coisa que você possa carregar na mão para se defender ou fazer o touro pensar duas vezes antes de atacar.",
+                "5":"Encontre um local seguro rapidamente. Fuja e suba o mais rápido que puder na cerca, portão, proteção ou até mesmo em uma árvore forte. Os touros podem ser mais rápidos que pessoas, portanto, você deve ficar sempre próximo de um ponto de escape.",
+                "6":"Se não puder encontrar uma rota de fuga, dê um passo para o lado e corra ou bata nele “com força”. O melhor a se fazer se não houver lugar para se esconder ou se você estiver no meio de um pasto, é dar um passo ao lado e correr na direção oposta ou encarar o touro, gritar o mais alto que puder e bater no rosto ou focinho dele com sua arma, empregando o máximo de força possível.",
+                "7":"Sinta-se grato se conseguir escapar ileso."
+            }
+        ]
+    },
+    {
+        "id":"9",
+        "category":"artesanato",
+        "title":"Como Colher Impressões Digitais",
+        "img_url":"../assets/images/9.jpg",
+        "description":"Já se perguntou como os profissionais da polícia recolhem impressões digitais em cenas de crime?",
+        "text":[
+            {
+                "1":"Encontre um pó refinado, branco ou preto. Os profissionais de perícia utilizam talco para colher impressões digitais de superfícies escuras e pós de grafite para colher impressões de superfícies claras. Caso o processo não dê certo, ou a marca do dedo esteja em uma superfície com muitas texturas, você pode utilizar um pó fluorescente que brilha quando iluminado por luz negra.",
+                "2":"Pegue um pincel pequeno com cerdas bem macias. Os de pintura e maquiagem são excelente opções, desde que sejam macios e em bom estado.",
+                "3":"Pegue fita adesiva transparente. Você pode usar qualquer tipo de fita adesiva, desde que ela seja transparente. A ideia é grudá-la sobre a impressão após a aplicação do pó.",
+                "4":"Pegue algumas folhas de papel. Se vai usar um pó branco, você precisará de papel preto para criar um contraste entre a folha e a impressão digital recolhida. Se vai usar um pó escuro, o papel sulfite branco é mais do que adequado.",
+                "5":"Use uma superfície plana e lisa. As lâminas de microscópio são excelentes para o recolhimento de impressões digitais, mas não são necessárias. Você pode usar paredes, cadeiras, mesas e até mesmo eletrodomésticos. O importante é que a superfície seja lisa.",
+                "6":"Pressione o dedo sobre a superfície rígida e lisa. Se quiser facilitar o recolhimento das impressões digitais após o uso do pó, passe um pouco de creme nas mãos antes de pressionar o dedo.",
+                "7":"Jogue uma pequena quantidade de pó sobre a impressão digital. Pegue uma leve pitada entre o dedão e o indicador, jogando o produto sobre toda a marca. Tente mirar bem para aumentar a eficácia e não fazer sujeira. Se preferir, sopre de leve o pó para cobrir melhor a impressão.",
+                "8":"Cuidadosamente, remova o excesso de pó usando o pincel. Faça movimentos circulares, dando batidinhas sobre o pó, para manter a impressão intacta. Caso acabe esfregando as cerdas sobre a marca, você corre o risco desmanchar a impressão digital, estragando todo o processo. Pratique bastante até pegar o jeito e conseguir ver a impressão claramente marcada no pó.",
+                "9":"Cole um pedaço de fita adesiva transparente sobre a impressão digital. Use um pedaço grande o suficiente para deixar um espaço extra no canto, o que vai facilitar a puxada. Em seguida, puxe a fita cuidadosamente. Se tudo der certo, o pó vai estar grudado na fita, com o formato da impressão do dedo.",
+                "10":"Cole a fita sobre um pedaço de papel. Se usou pó branco, escolha um papel preto; se usou pó preto, use um papel branco. Caso contrário, você não conseguirá ver a impressão digital."
+            }
+        ]
+    },
+    {
+        "id":"10",
+        "category":"artesanato",
+        "title":"Como Fazer Velas Caseiras",
+        "img_url":"../assets/images/10.jpg",
+        "description":"Velas são excelentes para trazer um pouco de luz e aroma ao seu quarto.",
+        "text":[
+            {
+                "1":"Decida qual tipo de cera quer usar para fazer a vela. Há diversos tipos de cera. Meio quilo de parafina gerará, aproximadamente, meio litro de cera derretida. Meio quilo de cera de soja gerará cerca de meio litro de líquido quando derretido. Meio quilo de cera de abelha gerará cerca de 470 ml de líquido quando derretido.",
+                "2":"Proteja a área de trabalho antes de começar. A não ser que tenha uma área dedicada ao derretimento de cera (o que o despreocuparia), procure colocar jornais, papeis ou toalhas e panos na superfície em que o trabalho será feito. Tenha um pouco de água morna por perto para lavar eventuais derramamentos.",
+                "3":"Corte ou retalhe a cera em pedaços ou raspas. Pedaços menores de cera derretem melhor que pedaços maiores. Ao usar pedaços menores, você também garantirá que a cera derreta num ritmo uniforme.",
+                "4":"Encha metade de uma panela de tamanho médio ou grande de água. Deve haver espaço o suficiente na panela para acrescentar uma menor dentro dela. Tecnicamente, você fará um banho-maria improvisado.",
+                "5":"Coloque os pedaços ou raspas de cera em uma panela menor. Coloque o recipiente menor dentro da panela grande, criando um banho-maria improvisado. Você não pode colocar a cera diretamente no fogo, ou ela vai queimar ou evaporar. Mantenha o calor alto para que a água ferva. A água fervente derreterá lentamente a cera.",
+                "6":"Use um termômetro para ficar de olho na temperatura da cera. Você pode usar um termômetro de doce ou de velas encontrado em diversas lojas. Se não possuir um termômetro de doces, você pode usar um de carne. Lembre-se apenas de que a cera pode ser de difícil remoção.",
+                "7":"Adicione aroma à cera derretida. O aroma é de sua escolha. Óleos essenciais aromáticos podem ser comprados em lojas de artes. É melhor ler as instruções da garrafa em vez de querer basear a quantidade na intensidade que a essência tem depois de adicionada. Mexa bem.",
+                "8":"Adicione colorantes. O colorante alimentício normal não funcionará em velas, pois elas são baseadas em água. Compre colorantes baseados em óleos em sua loja de artes local. Você geralmente pode encontrar colorantes específicos para velas. Leia o rótulo para descobrir o quanto precisa adicionar para alcançar certa cor. Adicione gotas de colorante até alcançar a cor desejada. Mexa bem.",
+                "9":"Coloque um pavio no centro do molde da vela. O pavio deve ficar no centro do molde da vela, com apenas alguns centímetros saindo do produto final. Você pode aderir o pavio no fundo da latinha usando uma fita adesiva que grude ambos os lados. Para manter o pavio no lugar, amarre a ponta que sairá da vela ao redor do centro de uma caneta/lápis. Coloque a caneta acima do molde que receberá a cera. O pavio deve permanecer reto no centro do molde.",
+                "10":"Despeje a cera derretida no molde. Despeje lentamente para que ela não se derrame. Tome cuidado para não mover o pavio acidentalmente. Você julga quanta cera deve ser alocada nos recipientes. A cera de abelha encolherá um pouco após resfriar – mantenha isso em mente enquanto despejá-la nos moldes.",
+                "11":"Esfrie a cera. É melhor resfriá-las por 24 horas completas se possível. Quanto mais você deixá-las resfriarem, melhores ficarão."
+            }
+        ]
+    },
+    {
+        "id":"11",
+        "category":"artesanato",
+        "title":"Como Pintar o Seu Notebook",
+        "img_url":"../assets/images/11.jpg",
+        "description":"Siga o passo a passo deste artigo para usar e abusar da criatividade e dar sua cara ao notebook.",
+        "text":[
+            {
+                "1":"Passe fita crepe em todas as entradas e saídas do notebook. A fita crepe é mais que suficiente, pois protege bem o material e sai fácil depois. Tampe todas as saídas de ar e entradas (de cabo de energia, USB, fones de ouvido etc.) do computador. Depois, proteja também a tela e a câmera.",
+                "2":"Lixe a tampa do notebook (se necessário). Se você pretende pintar o notebook para disfarçar riscos ou outras marcas, comece passando uma lixa de grão 400 na tampa até tirar a camada original de tinta dela. Só então prossiga com as próximas etapas.",
+                "3":"Eu posso pintar o notebook usando tinta acrílica? Sim, mas só se você não se importar de ele ficar com uma textura diferente. Sem o devido cuidado, a tinta acrílica deixa marquinhas em relevo quando seca. Se você não se importa de ver essa diferença na tampa do notebook, fique à vontade para usar o material."
+            }
+        ]
+    },
+    {
+        "id":"12",
+        "category":"artesanato",
+        "title":"Como Fazer uma Caixa Romântica para o Namorado",
+        "img_url":"../assets/images/12.jpg",
+        "description":"Uma caixa romântica é uma representação física do amor e do relacionamento entre duas pessoas.",
+        "text":[
+            {
+                "1":"Decida que tipo de caixa será. Uma caixa romântica precisa ter características únicas e individuais, que represente a conexão do casal. Pense nas coisas que ambos consideram significativas. Como vocês se conheceram? Vocês gostam de algo em comum, como uma música?",
+                "2":"Encontre uma caixa básica. Pegue uma caixa qualquer. O ideal é que ela seja pequena o suficiente para parecer algo íntimo, mas grande o suficiente para caber tudo o que você quiser incluir. Para facilitar a decoração da parte externa, procure uma caixa que seja de uma só cor. Caso não encontre, é possível cobrir a parte de fora com papel pardo ou colorido e depois adicionar as decorações.",
+                "3":"Junte os materiais necessários. Os materiais variam dependendo de como a caixa será enfeitada, porém, alguns objetos básicos que você provavelmente vai precisar são: Tesoura, Papel colorido, Caneta e lápis, Fita adeisa e cola.",
+                "4":"Decore o exterior. Decorar o exterior será muito mais fácil caso já tenha uma ideia do que fazer desde o início. Comece pelo básico: cubra completamente a caixa com o papel de preferência e comece a decorar depois disso. Não tenha medo de usar a criatividade! O exterior será a primeira impressão que ele terá, então tente causar um grande impacto e deixá-lo surpreso antes mesmo que ele veja o conteúdo.",
+                "5":"Inclua uma surpresa na parte interior da tampa. Quando ele finalmente abrir o presente, a primeira coisa que ele vai ver é o que estiver no interior da tampa. Algumas pessoas nem pensam em utilizar essa parte, mas seja esperta e aproveite o potencial do local. Existem muitas coisas que você poderia colar ali. Pense em algo que seja importante e significativo para os dois.",
+                "6":"Compre um presente. Além dos itens que você mesma fez, comprar um presente é uma forma de demonstrar ainda mais carinho. Pode ser algo simples, mas que tenha um significado por trás. Às vezes é difícil escolher e comprar presentes para namorados, mas fazer um esforço vai tornar a caixa ainda mais especial."
+            }
+        ]
+    },
+    {
+        "id":"13",
+        "category":"artesanato",
+        "title":"Como Tirar Bolhas de Ar de Adesivos",
+        "img_url":"../assets/images/13.jpg",
+        "description":"Você pregou um adesivo ou decalque com precisão cirúrgica, mas foi olhar o resultado e notou uma bolha de ar?",
+        "text":[
+            {
+                "1":"Desfaça bolhas de ar pequenas com o polegar. Se a bolha é pequena, basta passar o polegar em cima dela para corrigir o problema — principalmente quando se trata de um decalque ou adesivo de vinil. Conte alguns segundos até o ar se dissipar.",
+                "2":"Use um rodinho ou cartão para desfazer as bolhas perto das bordas do adesivo. Também é fácil desfazer as bolhas de ar que aparecem perto das bordas de adesivos! Coloque a ponta de um rodinho de pia ou cartão de crédito na extremidade dela e passe por cima devagar.",
+                "3":"Use o jato quente do secador de cabelo para desfazer bolhas de ar grandes. Segure o secador de cabelo a alguns centímetros do adesivo e ligue-o em potência baixa. Espere alguns segundos até o material começar a murchar. Se isso não acontecer, passe um rodinho ou cartão de crédito nas extremidades dele.",
+                "4":"Levante o canto de um decalque de vinil para desfazer bolhas ou outras falhas. Isso não dá certo em todas as superfícies, mas vale a pena tentar! Levante o canto do decalque que fica mais perto da bolha ou falha. Tente tirar o adesivo até chegar ao ponto crítico. Em seguida, coloque tudo no lugar tentando corrigir o problema."
+            }
+        ]
+    },
+    {
+        "id":"14",
+        "category":"casa",
+        "title":"Como restaurar plástico preto",
+        "img_url":"../assets/images/14.jpg",
+        "description":"Embora duráveis, os plásticos pretos (principalmente os acabamentos e o para-choque de carros) estão propensos ao desbotamento e descoloração.",
+        "text":[
+            {
+                "1":"Lave e seque a superfície do plástico. O azeite de oliva será melhor absorvido em uma superfície limpa. Se o objeto de plástico estiver sujo, lave-o com sabão e água morna. Seque-o com uma toalha antes da restauração para que o azeite não escorra.",
+                "2":"Coloque uma pequena quantidade de azeite de oliva em um plano. O azeite pode restaurar a cor natural do plástico preto, limpando as áreas desbotadas e descoloridas. Adicione uma quantidade bem pequena do produto a um pano ou papel-toalha – só um pouco já faz uma grande diferença, mas você pode sempre adicionar mais se desejar.",
+                "3":"Massageie o azeite no plástico. Passe o pano ou o papel-toalha no plástico preto para frente e para trás em toda a área afetada. Continue por vários minutos para ajudar o material a absorver o azeite.",
+                "4":"Faça um polimento com um pano seco. Depois de passar o azeite de oliva por alguns minutos, pegue um pano seco e passe no plástico em movimentos circulares. Use bastante pressão para remover a oleosidade do azeite e dar um pouco mais de brilho à superfície.",
+                "5":"Inspecione o plástico para ver se há alguma descoloração residual. Depois de remover o azeite, verifique a cor do objeto e veja se ainda há algum dano. Se perceber partes que o produto não restaurou, tente realizar o processo novamente com mais azeite focando na área persistente.",
+                "6":"Experimente um hidratante de acabamento de plástico preto como alternativa. Como o azeite de oliva, os hidratantes de plástico preto restauram o acabamento do carro e o para-choque dando umidade à superfície. Se preferir usar um produto feito especificamente para carros, use o hidratante da mesma maneira que usou o azeite."
+            }
+        ]
+    },
+    {
+        "id":"15",
+        "category":"casa",
+        "title":"Como Acabar com um Formigueiro",
+        "img_url":"../assets/images/15.jpg",
+        "description":"Você só precisa de ferramentas comuns, como um ancinho e uma pá.",
+        "text":[
+            {
+                "1":"Jogue água da mangueira no formigueiro por alguns minutos. Ligue o jato da mangueira com força total e mire-o em cima e em volta do formigueiro por algo entre três e cinco minutos (ou até mais). Só pare quando a terra estiver saturada e a água começar a empoçar — e, se possível, continue mesmo assim.",
+                "2":"Veja se as formigas ainda estão por perto nos três dias seguintes. Dê uma conferida no formigueiro duas ou três vezes por dia. Se não houver qualquer sinal de atividade nos três dias seguintes, é porque as formigas provavelmente estão mortas. Se houver, repita o processo acima ou experimente outras estratégias.",
+                "3":"Derrame 4 L de água fervente no formigueiro se você notar qualquer atividade. Se a água fria ou gelada não der conta do serviço, ferva cerca de 4 L dela em uma panela grande. Depois, leve o líquido até o formigueiro e derrame-o devagar, tomando cuidado para não se queimar.",
+                "4":"Adicione detergente de louça à água fervente. Ferva uma ou mais panelas de água e adicione algumas gotas de detergente de louça. Em seguida, derrame o líquido no formigueiro, veja se há sinais de vida e repita o processo conforme necessário.",
+                "5":"Derrame 1 L de vinagre no formigueiro. O vinagre é ácido e mata as formigas quando encharca os seus corpos — isso se elas não se afogarem logo de cara. Quanto maior o volume, melhor: tente usar cerca de 1 L por dia ao longo de três dias."
+            }
+        ]
+    },
+    {
+        "id":"16",
+        "category":"casa",
+        "title":"Como Consertar um Vazamento no Chuveiro",
+        "img_url":"../assets/images/16.jpg",
+        "description":"Um chuveiro vazando pode ser caro e irritante.",
+        "text":[
+            {
+                "1":"Desligue o fornecimento de água para o chuveiro. O vazamento pode ser causado por orifícios entupidos, resultado do calcário e de outros depósitos minerais que se acumulam nos buracos com o tempo. Caso não tenha certeza do que pode estar causando o problema, comece por aqui. Esse é um conserto simples e barato que não exige desmontar todo o chuveiro. Desligue o fornecimento de água antes de começar.",
+                "2":"Remova o espalhador do chuveiro ou todo ele. Como você precisará deixar de molho e esfregar as partes com acúmulo de minerais, será preciso retirá-las do resto da instalação.",
+                "3":"Mergulhe o espalhador ou o chuveiro em vinagre de vinho branco por oito horas. Compre ou obtenha um recipiente grande o bastante para conter a peça. Caso tenha mais de um banheiro que você ou sua família possam usar, é possível utilizar a pia, se ela tiver o tamanho adequado.",
+                "4":"Remova manualmente os depósitos restantes. Depois de oito horas, o calcário e outros depósitos minerais terão dissolvido. Agora, você terá de removê-los. Primeiro, encontre um palito de dentes ou um prego pequeno o bastante para encaixar nos buracos do chuveiro. Enfie a ferramenta em cada buraco para remover a sujeira. Em seguida, esfregue a peça com uma escova plástica rígida.",
+                "5":"Veja se o problema foi resolvido. Para saber se esse processo consertou o vazamento, prenda a peça removida de volta na instalação, religue o fornecimento de água e veja se o registro está desligado. Caso não perceba mais nenhum vazamento, o problema foi resolvido. Se o chuveiro ainda estiver vazando, considere outro motivo para o vazamento."
+            }
+        ]
+    },
+    {
+        "id":"17",
+        "category":"casa",
+        "title":"Como Lavar Jeans",
+        "img_url":"../assets/images/17.jpg",
+        "description":"A calça jeans é uma peça de roupa bastante popular presente no guarda-roupas de muitas pessoas",
+        "text":[
+            {
+                "1":"Configure a máquina para um ciclo gentil ou delicado. Para manter a calça com o mesmo visual de quando você a comprou, lave-a em um ciclo para roupas delicadas. Isso reduz o desgaste, permitindo que as cores e o design permaneçam intactos.",
+                "2":"Encha a máquina de lavar com água fria. Nunca lave uma calça jeans em água quente. A água morna, no entanto, pode ser usada neste caso.",
+                "3":"Vire a calça do avesso. Lavá-la na máquina pode ser um processo bastante abrasivo para o tecido. Não só as roupas esfregam umas nas outras, mas o sabão em pó - juntamente com o zíper e botões - podem danificar a cor e o tecido",
+                "4":"Coloque a calça o jeans na máquina de lavar com somente outras peças jeans ou com outras roupas de cores parecidas. Um dos principais motivos a serem levados em consideração na lavagem de jeans é o sangramento da cor. Lavar a roupa com muita frequência pode fazer com que ela perca a cor ou comece a desbotar.",
+                "5":"Perdure a calça para secar em um varal. Não a seque em uma secadora. Evite deixá-la muito tempo secando para que ela não encolha ou perca a cor do tecido."
+            }
+        ]
+    },
+    {
+        "id":"18",
+        "category":"casa",
+        "title":"Como Se Refrescar Sem Ar Condicionado",
+        "img_url":"../assets/images/18.jpg",
+        "description":"O calor está deixando você na miséria?",
+        "text":[
+            {
+                "1":"Roupas claras à base de fibras naturais ajudam a evaporar o suor a fim de mantê-lo refrescado. Agora é a hora de trocar as fibras artificiais, como o poliéster, pelos tecidos leves e respiráveis à base de algodão, seda ou linho. Fibras naturais respiram bem, de modo que você não mais sentirá como se o calor estivesse preso em seu corpo.",
+                "2":"Tenha água ou isotônicos sempre à mão e tome-os para repor os fluidos perdidos. Quando está quente lá fora, o corpo trabalha ainda mais para se refrescar — você notará que está suando em quantidade bem maior. Evite a desidratação tomando água ao longo do dia e não somente quando sentir sede. Tomar bebidas geladas também pode ajudá-lo a se sentir refrescado.",
+                "3":"Pegue um picolé, uma fruta congelada, uma vitamina ou um sorvete para se refrescar. Comer algo frio da geladeira ou do freezer é uma maneira clássica de diminuir a temperatura corporal em ótimo gosto! Tente escolher algo leve e refrescante, como um sorbet de frutas ou uma melancia resfriada. Ambos têm também uma boa quantidade de fluidos que pode mantê-lo hidratado",
+                "4":"Encha um borrifador com água e aplique-a sobre a pele para um alívio rápido. Não consegue chegar na piscina para se aliviar nesse instante? Prepare um borrifador enchendo-o de água e molhe a sua pele exposta. Para se resfriar ainda mais, fique na frente de um ventilador.",
+                "5":"A água fria diminui a temperatura basal do organismo. Se já nadou em um quente dia de verão, você sabe quão revigorante pode ser esse mergulho. Caso precise se refrescar em casa, entre no chuveiro ou na banheira. Se estiver com dificuldades para dormir por conta do calor, faça-o imediatamente antes de ir para a cama.",
+                "6":"Bloqueie os raios solares para que a casa não absorva mais calor. Assim que as temperaturas externas começarem a subir, feche as janelas e desça as persianas. Se tiver cortinas, feche-as. A sua casa pode ficar escura, mas possivelmente estará mais fresca.",
+                "7":"Deixe o ar frio entrar em casa para o ambiente não ficar abafado. Tire vantagem das temperaturas frescas da noite abrindo as janelas assim que a temperatura começar a cair. Abra tantas janelas quanto puder para conseguir uma boa circulação."
+            }
+        ]
+    },
+    {
+        "id":"19",
+        "category":"casa",
+        "title":"Como Montar uma Mesa Gamer",
+        "img_url":"../assets/images/19.jpg",
+        "description":"Montar uma mesa gamer personalizada é mais fácil do que você pensa, sem contar que gera uma economia danada!",
+        "text":[
+            {
+                "1":"Calcule o espaço de que você vai precisar para montar a mesa. Ponha seu PC gamer ou em uma mesa ou no chão do mesmo jeito que pretende colocar tudo no móvel final. Em seguida, tire as medidas da área e a altura da CPU — ainda mais se quiser deixá-la debaixo do tampo. Anote todos os valores para não se perder.",
+                "2":"Escolha uma porta que tenha pelo menos 65 x 205 cm. Portas dão excelentes tampos para mesa, pois já vêm pintadas e custam menos que chapas de madeira. Você só precisa ir à loja de materiais de construção e escolher uma que seja plana. Por fim, outra opção é comprar peças de segunda mão (mas que ainda tenham qualidade).",
+                "3":"Compre cinco pernas de mesa ajustáveis. Vá a uma loja de móveis física ou virtual e compre pernas de mesa que você possa instalar debaixo do tampo usando parafusos. Escolha peças com o mesmo estilo e a mesma cor que a porta.",
+                "4":"Compre pedaços extras de madeira se você quiser adicionar uma prateleira. Caso você queira montar uma prateleira para um ou mais monitores do PC, compre um pedaço de madeira com 30 x 185 cm e dois com 10 x 30 cm. Aqui, também é possível instalar prateleiras menores. O importante é calcular o espaço necessário para uma ou mais telas. Vá à loja de materiais e descubra se ela corta as peças por você.",
+                "5":"Compre uma lata de tinta ou verniz se você quiser mudar a cor da mesa. Caso você esteja usando madeira bruta, vale a pena aplicar tinta ou verniz nela. Caso esteja usando um material já pintado, pule este passo.",
+                "6":"Compre lâmpadas de LED para instalar debaixo do tampo (opcional). Você pode instalar lâmpadas de LED debaixo do tampo da mesa e da prateleira! As luzes vão criar a impressão de que o móvel brilha. Basta comprar uma ou mais peças da sua cor favorita."
+            }
+        ]
+    },
+    {
+        "id":"20",
+        "category":"casa",
+        "title":"Como Pintar Aço Galvanizado",
+        "img_url":"../assets/images/20.jpg",
+        "description":"Por ser liso, escorregadio e revestido com zinco, o aço galvanizado pode ser difícil de pintar.",
+        "text":[
+            {
+                "1":"Limpe o aço com um desengordurante. Borrife a solução no material e esfregue com um paninho de microfibra limpo. Um desengordurante potente vai diluir as camadas de sujeira, gordura, mofo e outros resíduos problemáticos sem afetar o revestimento sensível de zinco. Esfregue o produto em partes pequenas do material até limpá-lo por completo.",
+                "2":"Espere o material secar. Após terminar de limpar o aço, deixe-o descansar até todos os resíduos do desengordurante evaporarem. Assim, você não corre o risco da solução afetar a ação do vinagre, que serve para tornar o aço mais áspero.",
+                "3":"Lixe delicadamente o aço para remover a ferrugem branca. Na hora de preparar um item um pouco gasto, pode ser que você encontre uma camada de algo parecido com pó ou giz na superfície do material. Para removê-la, use uma lixa fina (de 120 ou menos). Tenha bastante paciência e esfregue a lixa em movimentos circulares até o material ficar uniforme",
+                "4":"Limpe o aço com vinagre branco. Umedeça um pano limpo e seco com vinagre destilado e torça-o para tirar o excesso. Passe o pano por todo o aço e reponha o vinagre sempre que necessário. Para que a pintura fique uniforme, é essencial que a tinta pegue em todos os cantinhos do material.",
+                "5":"Deixe o vinagre agir por uma a duas horas. Ao longo desse tempo, o vinagre vai corroer a superfície do metal. Quanto mais tempo ele agir, mais o material vai ficar áspero e aderente. Caso tenha tempo sobrando, você pode até mesmo deixar o vinagre agir ao longo de toda a noite.",
+                "6":"Aplique um primer à base de látex. Com um pincel ou um spray, passe o primer em toda a superfície do aço. Aplique-o em partes pequenas e tente deixar a cobertura o mais uniforme possível. Tome cuidado para não deixar nenhuma falha que possa causar problemas na hora da pintura.",
+                "7":"Deixe o primer secar completamente. Isso pode levar entre duas a seis horas, dependendo do produto escolhido. Para ver se a superfície já está pronta para ser pintada, passe o dedo por ela. Caso ela ainda esteja grudenta, deixe-a secar um pouco mais.",
+                "8":"Dê a primeira demão. Espalhe a tinta por toda a superfície com pinceladas longas e lineares. Com a pontinha do pincel, pinte bem os relevos, as reentrâncias e outras partes texturizadas do aço. Dê uma olhada para ver se não deixou passar nenhum pedacinho antes de continuar.",
+                "9":"Espere a primeira camada de tinta secar antes de dar a segunda demão. Isso costuma levar entre três e quatro horas. Nesse ínterim, evite tocar na tinta fresca para não deixar nenhum mancha ou ruguinha na pintura.",
+                "10":"Aplique uma segunda camada de tinta. Na maior parte dos casos, duas demãos já são mais do que suficientes. Aplique a camada superior da mesma forma que a primeira. Vá com calma para ter certeza de que não deixou nenhuma falhinha para trás. As imperfeições ficarão visíveis depois que a tinta secar.",
+                "11":"Limite o tempo de exposição da tinta enquanto espera ela curar. Embora a maior parte das tintas à base de látex seque em questão de horas, o produto pode levar algumas semanas (ou, em alguns casos, até um mês) para assentar completamente. Evite expor o aço a pressões que possam danificá-lo, à chuva ou a mudanças drásticas de temperatura. Depois que a tinta curar, o material estará pronto para encarar qualquer coisa."
+            }
+        ]
+    },
+    {
+        "id":"21",
+        "category":"casa",
+        "title":"Como Trocar uma Lâmpada de Teto",
+        "img_url":"../assets/images/21.jpg",
+        "description":"Trocar uma lâmpada de teto pode até parecer a coisa mais simples do mundo, mas às vezes é um pouco mais complicado.",
+        "text":[
+            {
+                "1":"Desligue o interruptor e espere a lâmpada esfriar. Você precisa desligar o interruptor antes de trocar a lâmpada. Como modelos incandescentes e de halogênio ficam muito quentes, é melhor esperar pelo menos de 15 a 20 minutos para evitar queimaduras e outros acidentes.",
+                "2":"Use uma escada ou um tamborete para alcançar a lâmpada. Não tente subir em uma cadeira ou outro objeto que seja instável. Se você não alcançar a lâmpada com o tamborete, use uma escada cavalete",
+                "3":"Solte os parafusos se a lâmpada estiver dentro de uma luminária. A maioria das luminárias e globos de teto tem pelo menos um parafuso que prende a estrutura. Se for o caso da sua, encontre a peça e desinstale-a com cuidado usando uma chave de fenda.",
+                "4":"Use fita adesiva para remover a luminária (se necessário). Comece removendo os parafusos que prendem a luminária ou o globo. Caso a peça continue presa, pegue um pedaço de 15 cm de fita adesiva e dobre no meio para criar uma espécie de alça.",
+                "5":"Tire a lâmpada velha do soquete. Veja de novo se a lâmpada está fria. Em seguida, gire-a em sentido anti-horário para tirá-la do soquete.",
+                "6":"Compre uma nova lâmpada de mesma voltagem. Dê uma olhada na lâmpada para saber qual é a voltagem dela. Se você não tiver outra igual em mãos, vá ao supermercado mais próximo e compre uma nova.",
+                "7":"Instale a lâmpada nova. Insira a base da lâmpada no soquete e gire-a em sentido horário até ela ficar apertada. Não ponha força demais, ou o vidro dela pode acabar se estilhaçando.",
+                "8":"Reinstale a luminária (se necessário). Aproveite que você desinstalou a luminária e passe um pano com limpa-vidros nela. Quando ela secar, coloque-a de volta na base fazendo o inverso dos passos anteriores."
+            }
+        ]
+    },
+    {
+        "id":"22",
+        "category":"culinaria",
+        "title":"Como Comer Queijo Gouda",
+        "img_url":"../assets/images/22.jpg",
+        "description":"O gouda é um queijo duro e docinho que combina bem com uma variedade de alimentos e bebidas.|",
+        "text":[
+            {
+                "1":"Remova a embalagem de plástico do queijo. Rasgue o plástico com os dedos ou com a ponta de uma faca. Em seguida, puxe-o até remover a embalagem ao redor do disco inteiro e jogue fora.",
+                "2":"Corte o queijo em fatias com uma faca bem afiada. Coloque a ponta da faca no centro do disco e faça um corte reto do centro para a borda externa. Depois, coloque a ponta da faca de volta ao centro e posicione a lâmina em um ângulo de 45 graus em relação ao primeiro corte que você fez. Deslize-a para inseri-la no queijo e faça outro corte. Em seguida, remova a fatia de queijo do disco inteiro.",
+                "3":"Remova o revestimento de cera, se for o caso. Alguns discos de gouda vêm com um revestimento de cera vermelho ou preto que precisa ser removido antes de consumir o queijo. Se o seu tiver um, descasque a cera em cada fatia com os dedos ou com uma faca e jogue fora.",
+                "4":"Corte as fatias horizontalmente para fazer bandejas de queijo ou sanduíches. Divida cada fatia em quatro ou cinco pedaços horizontais homogêneos. Pegue a ponta perto da casca (a parte endurecida por fora do queijo) e corte-a pela metade da largura para fazer dois pedaços. A casca é comestível — deixe-a com o restante quando estiver cortando o queijo. Se não quiser comê-la, coma o queijo até chegar nessa parte e jogue fora quando terminar.",
+                "5":"Rale o gouda para colocar por cima de pratos. Coloque o ralador sobre um prato ou vasilha, segure a fatia do queijo com a mão e rale para baixo no lado perfurado e afiado. Quando chegar em baixo, levante a fatia do ralador, leve-a de volta para cima e deslize-a novamente para ralar. Repita até que a fatia inteira tenha sido ralada."
+            }
+        ]
+    },
+    {
+        "id":"23",
+        "category":"culinaria",
+        "title":"Como Comer com Hashis",
+        "img_url":"../assets/images/23.jpg",
+        "description":"Eis como dizer adeus ao garfo de uma vez por todas e colocar esses hashis em ação!",
+        "text":[
+            {
+                "1":"Pegue seu primeiro hashi com o dedo médio e o polegar. Esse será sua âncora — ele não pode se mover. Enrijeça sua mão para ter uma pegada firme. Permita que a extremidade larga do hashi descanse na curva de sua mão, onde o dedão e o indicador se ligam. Descanse a extremidade estreita entre a base do dedão e o lado do dedo indicador. Ele deve permanecer virtualmente imóvel. É algo parecido com segurar uma caneta, só que um pouco mais baixo.",
+                "2":"Pegue o segundo hashi com seu dedo indicador e dedão. Este será o hashi que se moverá. Coloque o dedão sobre o lado do segundo hashi, para que ele descanse sobre o primeiro. Ajuste sua pegada até alcançar uma posição confortável. As pontas estreitas dos hashis estejam ligadas de forma a evitar que elas se cruzem ou não consigam “beliscar” o alimento.",
+                "3":"Pratique abrir e fechar os hashis. As extremidades largas dele não devem fazer um “”, pois isso dificultaria sua pegada. Apenas a parte de cima se move? Ótimo!",
+                "4":"Comece pegando alimentos! Trabalhar num ângulo de 45° pode ser ideal neste primeiro momento. Continue assem até conseguir erguer alimentos de maneira estável. Se houver algum desequilíbrio, baixe o alimento e tente novamente."
+            }
+        ]
+    },
+    {
+        "id":"24",
+        "category":"culinaria",
+        "title":"Como Usar uma Churrasqueira a Bafo",
+        "img_url":"../assets/images/24.jpg",
+        "description":"As churrasqueiras a bafo podem parecer difíceis de usar, mas ficam fáceis quando você aprende a regular a temperatura.",
+        "text":[
+            {
+                "1":"Condicione a churrasqueira, se for necessário. Se estiver usando a churrasqueira pela primeira vez, limpe-a toda usando água e sabão. Limpe para tirar a poeira, gordura ou restos de carvão ou madeira. Deixe a churrasqueira secar e então passe óleo vegetal na parte de dentro da câmara de cozimento. Abra todos os respiradouros e acenda o fogo na área indicada. Deixe o fogo aceso por 30 minutos com os respiradouros abertos",
+                "2":"Coloque duas sondas para leitura de temperatura na churrasqueira. Compre duas sondas digitais de leitura de temperatura para colocar na câmara de cozimento. Coloque-as perto da comida dos dois lados da câmara para obter leituras precisas. Use sondas com fios metálicos se quiser movê-las às vezes ou monte-as nas grelhas da câmara de cozimento.",
+                "3":"Abra o respiradouro de entrada e o de vazão superior. Já que o fogo precisa de oxigênio, abra o respiradouro de entrada na lateral da área do fogo. Você também precisa abrir o respiradouro de vazão superior, para que a fumaça seja liberada.",
+                "4":"Ponha fogo em um acendedor de lareira cheio de carvão. Encha um acendedor de lareira com briquetes de carvão e acenda o fogo. Aqueça os briquetes até que eles comecem a brilhar e ficar brancos de cinzas. Isso deve demorar uns 15 minutos.",
+                "5":"Espalhe os carvões na área indicada e feche a tampa. Assim que os briquetes estiverem meio cinzas e bem quentes, jogue-os na churrasqueira. Se quiser dar mais sabor, coloque uma ou duas toras de nogueira, algarroba, macieira ou carvalho silvestre. Feche a tampa da churrasqueira a bafo.",
+                "6":"spere a churrasqueira chegar na temperatura certa. Monitore a temperatura dentro da câmara de cozimento até que ela chegue no nível desejado. A maioria das pessoas prefere assar alimentos em temperaturas entre 107 e 135 ºC. Mantenha as tampas da câmara de cozimento fechadas quando estiver preaquecendo a churrasqueira a bafo.",
+                "7":"Coloque a comida na grelha. Ponha os alimentos que quer defumar ou assar na grelha que fica na câmara de cozimento. Se quiser, coloque uma carne fria diretamente na churrasqueira, sem esperar que ela chegue na temperatura ambiente primeiro, porque assim ela absorverá mais fumaça. Feche a tampa da câmara de cozimento",
+                "8":"Reduza a temperatura da churrasqueira, se for necessário. Se a temperatura dentro da câmara de cozimento estiver ficando alta demais, feche os respiradouros. Se ainda assim ela estiver alta, abra a tampa da câmara de cozimento por um minuto. Isso abaixará a temperatura rapidamente."
+            }
+        ]
+    },
+    {
+        "id":"25",
+        "category":"culinaria",
+        "title":"Molho de Soja: Como Tirar a Tampa",
+        "img_url":"../assets/images/25.jpg",
+        "description":"Leia e resolva o problema rapidinho!",
+        "text":[
+            {
+                "1":"Tire o selo de plástico e gire a tampa no sentido anti-horário. Segure o frasco de molho de soja firmemente com uma mão e gire a tampa com a outra. Use um pegador de borracha ou um pano úmido para conseguir pegar a tampa com firmeza caso suas mãos fiquem escorregando ou a tampa esteja travada.",
+                "2":"Jogue água quente na tampa por um minuto caso ela esteja emperrada. Use a água quente da torneira, se tiver, ou esquente uma chaleira de água. Deixe a água cair na tampa por um a dois minutos. Se a água estiver muito quente, ponha o frasco dentro da pia.",
+                "3":"Tente girar a tampa no sentido anti-horário de novo. O frasco pode estar quente, então use um pegador de borracha ou um pano úmido para segurá-lo enquanto gira a tampa. Se ela continuar travada, bata-a no balcão ou na borda da pia para ajudar a soltar ou jogue água quente nela de novo (talvez você tenha que fazer isso várias vezes).",
+                "4":"Tire o lacre de plástico do frasco assim que a tampa sair. Olhe dentro da boca do frasco para ver se tem um lacre de plástico. Se não tiver, olhe dentro da tampa (às vezes ele sai junto com ela). Tire o lacre e jogue-o fora.",
+                "5":"Coloque a tampa de volta girando. Assim que a tampa estiver de volta no lugar, o frasco está pronto para usar!"
+            }
+        ]
+    },
+    {
+        "id":"26",
+        "category":"culinaria",
+        "title":"Como Comer uma Tigela de Cereal",
+        "img_url":"../assets/images/26.jpg",
+        "description":"O café da manhã é considerado por muitos a refeição mais importante do dia.",
+        "text":[
+            {
+                "1":"Despeje o cereal na tigela. A quantidade vai depender do tamanho da sua fome. Uma tigelona cheia pode mantê-lo satisfeito por várias horas, ao passo que uma tigelinha pode ser um ótimo lanchinho matinal. Tome cuidado apenas para não exagerar. Afinal, você precisa deixar espaço para o leite.",
+                "2":"Adicione o leite. No que diz respeito ao leite, cada um prefere de um jeito. Comece despejando o leite aos pouquinhos, até o cereal começar a flutuar. Para deixar os grãos apenas um pouquinho molhados, ainda com alguma crocância, use apenas um pouquinho de leite. Já se preferir uma sopinha de cereal, com aquele caldinho sobrando no fundo, encha bem a tigela.",
+                "3":"Experimente adicionar outro ingredientes. Algumas pessoas gostam de comer cereais com frutas como mirtilos, morangos ou bananas picadas. Para dar um toque especial aos cereais, adicione uma pitada de açúcar ou canela. Não tenha medo de usar a criatividade! Você pode adicionar os ingredientes extras que quiser aos cereal, principalmente se ele não tiver muito gosto por conta própria.",
+                "4":"Coma no seu próprio tempo. Respeitar a sua velocidade pessoal é uma parte importante de comer cereal. Caso você coma rapidamente, os grãos permanecerão crocantes até o fim. Já se você for com calma e saborear bem cada colherada, eles vão ficar gradativamente mais molinhos. Coma o seu café da manhã na velocidade que preferir. O importante é aproveitar a tigela de cereal ao máximo"
+            }
+        ]
+    },
+    {
+        "id":"27",
+        "category":"culinaria",
+        "title":"Como Descongelar Alimentos em Pouco Tempo",
+        "img_url":"../assets/images/27.jpg",
+        "description":"Leia as dicas abaixo e descubra mais!",
+        "text":[
+            {
+                "1":"Coloque os alimentos em um saco zip lock. Abra a porta do congelador com o saco em mãos. Coloque o alimento congelado dentro dele, encaixando bem para nenhuma parte ficar de fora. Se necessário, use mais de um saco ou sacola para repetir o processo várias vezes ao mesmo tempo. Não leve os produtos até o balcão da cozinha, pois ele pode conter bactérias que acabem gerando contaminação",
+                "2":"Coloque o saco em uma vasilha grande e adicione água gelada da torneira. Pegue uma vasilha de vidro ou metal do armário. Ela deve ser grande o bastante para o alimento ficar completamente submerso. Depois, coloque o produto no fundo e ligue a torneira na água gelada até preencher todo o espaço",
+                "3":"Descongele o alimento por duas ou três horas. Depois de preencher a vasilha com água, coloque-a no balcão. O tamanho, o tipo e a densidade do alimento vão determinar quanto tempo o processo leva. Por exemplo: um pacote de carne com 1,5 a 2 kg leva duas ou três horas, mas pacotes menores levam uma hora ou até menos. Por fim, prepare-se para esperar até meio dia caso o produto seja muito grande.",
+                "4":"Troque a água a cada 30 minutos para evitar que ela esquente. O objetivo do processo de descongelamento com água gelada é deixar o líquido em uma temperatura inferior à ambiente, o que evita a proliferação de bactérias. Para manter a água abaixo de 4 ºC, faça a troca a cada 30 minutos."
             }
         ]
     }

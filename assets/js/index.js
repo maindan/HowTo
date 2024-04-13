@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             let items = [];
             let recomendados = [];
-            while (items.length < 4) {
+            while (items.length != 4) {
                 let value = getRandomInt(totalItems)
                 if (!items.includes(value)) {
                     items.push(value);
