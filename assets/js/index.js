@@ -1,5 +1,5 @@
 function redirectCategory(idCat) {
-    window.location.href = `../pages/categoria.html?categoria=${idCat}`;
+    window.location.href = `./pages/categoria.html?categoria=${idCat}`;
 }
 
 function redirectPost(postid) {
@@ -7,7 +7,7 @@ function redirectPost(postid) {
 }
 
 function randomic() {
-    fetch("./assets/posts.json")
+    fetch("../assets/posts.json")
         .then(response => response.json())
         .then(data => {
             let totalItems = data.length;
