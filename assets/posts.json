@@ -14,9 +14,25 @@
         ]
     },
     {
+        "id":"2",
+        "category":"animais",
+        "title":"Como Cuidar de um Filhote de Pitbull",
+        "img_url":"../assets/images/2.jpg",
+        "description":"Dentre as várias raças de cães, poucas sofreram uma estereotipização tão negativa e agressiva como a pitbull.",
+        "text":[
+            {
+                "1":"Inicie o treinamento do filhote desde cedo. Comece a se informar e ler sobre como adestrar os cães dessa raça antes de adquiri-lo; dessa maneira, será possível treiná-lo imediatamente, socializando-o logo que ele for levado para casa. Se o cão for adotado ou comprado de um bom criador, ele já poderá ter iniciado a socialização, ou seja, já foi exposto a novas situações, sons, pessoas e animais.",
+                "2":"reine o filhote. Ensine os comandos básicos ao cãozinho, como 'venha aqui,' 'sente' e 'fique parado'). Caso note que o cão está se comportando de maneira inadequada, será possível redirecionar a atenção dele imediatamente. Se encontrá-lo, por exemplo, correndo e pulando sobre alguém, é possível ordená-lo com o comando 'venha aqui'. Ele deverá parar de pular na pessoa e vir para perto de você.",
+                "3":"Ensine o filhote a parar de morder. Muitos filhotes vão mordiscar ao brincarem, precisando aprender a inibição à mordida, principalmente durante brincadeiras, de forma que saibam que morder nunca é algo correto. São várias as maneiras de fazer com que ele aprenda isso, mas dizer 'ai!' firmemente e fazer sinais que indiquem que ele deve parar, de forma que ele entenda que morder não é uma atitude certa, já será o suficiente.",
+                "4":"Use reforços positivos para 'gravar' tal comportamento. Durante o adestramento, nunca fique bravo com o pitbull. Animais não entendem punições e acabarão ficando com medo de você. É normalíssimo que filhotes cometam erros, logo, tenha paciência. Procure sempre por uma razão para elogiá-lo, mesmo se for apenas algo pouco importante.",
+                "5":"O filhote deve saber que a pessoa que manda é o dono. Dessa forma, é uma boa ideia incentivá-lo a repetir certas ações e comandos, principalmente se ele não obedecer de início. Isso indica ao pitbull que algo que fez foi errado e que precisa tentar novamente até dar certo. Quando ele quase conseguir, deixe-o descansar. Dê várias chances para que o animal tente entender os comandos dados a ele."
+            }
+        ]
+    },
+    {
         "id":"3",
         "category":"animais",
-        "title":"Como Dar um Banho em Seu Hamster",
+        "title":"Como Repelir Macacos de Áreas Residenciais",
         "img_url":"../assets/images/3.jpg",
         "description":"Macacos selvagens podem causar problemas quando entram em áreas residências procurando comida.",
         "text":[
@@ -436,6 +452,195 @@
                 "2":"Coloque o saco em uma vasilha grande e adicione água gelada da torneira. Pegue uma vasilha de vidro ou metal do armário. Ela deve ser grande o bastante para o alimento ficar completamente submerso. Depois, coloque o produto no fundo e ligue a torneira na água gelada até preencher todo o espaço",
                 "3":"Descongele o alimento por duas ou três horas. Depois de preencher a vasilha com água, coloque-a no balcão. O tamanho, o tipo e a densidade do alimento vão determinar quanto tempo o processo leva. Por exemplo: um pacote de carne com 1,5 a 2 kg leva duas ou três horas, mas pacotes menores levam uma hora ou até menos. Por fim, prepare-se para esperar até meio dia caso o produto seja muito grande.",
                 "4":"Troque a água a cada 30 minutos para evitar que ela esquente. O objetivo do processo de descongelamento com água gelada é deixar o líquido em uma temperatura inferior à ambiente, o que evita a proliferação de bactérias. Para manter a água abaixo de 4 ºC, faça a troca a cada 30 minutos."
+            }
+        ]
+    },
+    {
+        "id":"28",
+        "category":"informatica",
+        "title":"Como Escrever um E‐mail Formal",
+        "img_url":"../assets/images/28.jpg",
+        "description":"Escrever um e-mail formal parece uma tarefa difícil, já que esse tipo de comunicação é utilizada com mais frequência para propósitos pessoais e informais.",
+        "text":[
+            {
+                "1":"Use um endereço eletrônico profissional, ou seja, com uma variação do seu nome verdadeiro, não um nome de usuário ou apelido. Use hifens, pontos ou underscore (“_”) para garantir que ele seja constituído apenas do seu nome, sem número ou letras a mais, se possível.",
+                "2":"Use fontes mais formais. A maioria dos serviços de e-mail dará a opção de escolha de fontes e estilos de texto; para uma mensagem formal, você deve ser conservador, usando a “Times New Roman” e a “Arial”. Evite as fontes decorativas como a “Comic Sans” ou a “Old English”, levando em conta as seguintes diretrizes:",
+                "3":"Na linha de assunto, seja ser curto e preciso. Use algumas palavras-chave para dar um assunto à mensagem, indicando exatamente sobre o que escreveu; assim, o leitor não ignorará o e-mail por não ter uma linha de assunto, por ser muito vago ou aparentar que a mensagem não tem muita importância.",
+                "4":"Use uma saudação adequada. Sempre comece a escrever um e-mail formal com uma saudação; endereçar o destinatário por nome (caso saiba) é melhor. Coloque o título da pessoa (Sr., Sra., Srta., Dr., entre outros) com o sobrenome seguido por uma vírgula ou dois pontos. Se quiser, escreva “Caro” ou “Cara” antes da saudação.",
+                "5":"Apresente-se no primeiro parágrafo, se necessário. Quando for enviar um e-mail para uma pessoa com quem não tem um relacionamento (um novo cliente, agente do governo ou indivíduo que está supervisionando uma seleção para uma vaga de emprego), diga quem você é e por que está escrevendo. A apresentação deve ser realizada nas duas primeiras frases do e-mail, no máximo.",
+                "6":"Priorize as informações mais importantes. Após introduzir-se e explicar por que está contatando a pessoa, redija o corpo do e-mail, colocando o conteúdo mais importante mais perto do começo. Isso respeita o tempo do destinatário e deixa o propósito da mensagem mais claro.",
+                "7":"Revise a mensagem, analisando conteúdo, gramática e ortografia. Não confie na ferramenta de correção ortográfica do e-mail; ler o que foi escrito em voz alta ou pedir para que outra pessoa faça uma revisão é uma ótima maneira de encontrar erros de digitação, de gramática ou frases pouco claras."
+            }
+        ]
+    },
+    {
+        "id":"29",
+        "category":"informatica",
+        "title":"Como Evitar o Vício em Internet",
+        "img_url":"../assets/images/29.jpg",
+        "description":"O vício em internet é um problema comum, mas que pode ser tão prejudicial quanto qualquer outro vício.",
+        "text":[
+            {
+                "1":"Mantenha um registro de quanto tempo você gasta na internet. Anote os horários, os sites ou aplicativos que acessou, o seu estado emocional quando estava na internet, por que você ficou todo esse tempo online e quanto tempo gastou na internet a cada dia. Vá comparando as anotações de cada semana para ver se está conseguindo melhorar ou identificar com o que você está gastando mais tempo na internet.",
+                "2":"Cronometre seu tempo online. Uma maneira de limitar o tempo gasto na internet é cronometrar ou colocar um despertador para tocar dentro de uma a duas horas, definindo esse o limite de tempo que você usará a internet por dia. Isso reduzirá drasticamente o tempo que você gasta diariamente no computador e no celular.",
+                "3":"Crie distrações para adiar o uso da internet. Diga a si mesmo que você poderá dar uma olhada nas redes sociais em 15 minutos, mas continue adiando isso até terminar alguma tarefa ou até quando aguentar. Priorize terminar todas as suas obrigações antes de mexer no celular e depois que acabar, vá tomar um banho, fazer o jantar ou colocar a roupa na máquina, por exemplo, para adiar o máximo possível o acesso à internet. Dessa forma, você diminuirá bastante o tempo gasto na internet sem muito esforço.",
+                "4":"Diminua a frequência com que você acessa a internet. Se você costuma dar uma olhada na internet várias vezes ao longo do dia, limitar-se a fazer isso apenas uma ou duas vezes ao dia pode ser bem difícil. Então, em vez disso, comece diminuindo essa frequência gradualmente, esperando mais uns 15 minutos por vez antes de dar uma olhada nas redes sociais, por exemplo, para perder o vício de uma maneira menos drástica.",
+                "5":"Desconecte-se quando estiver acompanhado. Se o celular ou Tablet estiverem à mão, você acabará usando-o sem nem pensar durante as refeições, enquanto conversa com os amigos e até durante o churrasco de família. Por isso, desligue o celular ou, pelo menos, coloque-o no modo silencioso e deixe-o longe da sua vista ou dentro da bolsa sempre que estiver passando um tempo com os seus familiares ou amigos.",
+                "6":"Troque a internet por uma atividade mais saudável. Fazer exercício, ler um livro, escrever, estudar, tricotar e fazer palavras cruzadas são todas alternativas bem melhores e mais saudáveis do que ficar na internet. Portanto, se quiser diminuir seu tempo na internet, mas não souber o que fazer com esse tempo livre, simplesmente faça algo de que goste e que não envolva aparelhos eletroeletrônicos."
+            }
+        ]
+    },
+    {
+        "id":"30",
+        "category":"informatica",
+        "title":"Como Ficar com Boa Aparência no Zoom",
+        "img_url":"../assets/images/30.jpg",
+        "description":"Antes de entrar na sua próxima chamada, gaste alguns minutos fazendo melhorias para sair com uma ótima aparência na reunião!",
+        "text":[
+            {
+                "1":"Mude o posicionamento dos móveis para que a luz que está entrando pela janela fique virada para você. Dê uma olhada em como é a iluminação no ambiente que você costuma usar para fazer reuniões no Zoom. Você fica virado para a janela ou de costas para ela? Sempre que for possível, troque os móveis de lugar para ficar de cara para a janela. Assim, você vai aproveitar bem a luz natural para ficar com boa aparência na câmera.",
+                "2":"Coloque abajures atrás do seu computador se não estiver perto de uma janela. Não se preocupe se sua casa não recebe muita luz natural. Faça o melhor que puder com o que você tem e ponha abajures atrás do seu notebook ou tablet.",
+                "3":"Centralize a câmera no nível dos olhos. Alinhe a câmera do seu notebook, Tablet ou celular para que ela fique no nível dos seus olhos. Se ela estiver mais baixa, a sua imagem não vai sair muito bonita para os outros participantes da chamada. Empilhe alguns livros ou outros objetos duros embaixo da sua webcam ou Tablet até que ela fique no ângulo certo.",
+                "4":"Sente-se de costas para uma parede lisa. Encontre um espaço no ambiente que não tenha muitas distrações, como pilhas de papel e outras bagunças. Prefira sentar-se de costas para uma parede vazia, com poucos quadros ou algo simples, como uma estante de livros. Fundos simples ajudam você a parecer mais profissional diante da câmera.",
+                "5":"Sente-se a, pelo menos, um braço de distância da câmera. Muitas câmeras têm lentes grande angulares, que não rendem boas imagens se a pessoa chegar perto demais. Afaste-se um pouco para que a câmera consiga captar seu rosto inteiro.[3] O ideal é manter-se centralizado na frente da câmera sem muito zoom.",
+                "6":"Use um plano de fundo virtual se o ambiente estiver cheio de coisas. Vá até as “configurações” do Zoom e toque ou clique em “Plano de Fundo Virtual”. Escolha uma das três fotos genéricas que o Zoom oferece ou carregue uma foto para usar como fundo. A ideia aqui é escolher uma foto que realce a imagem geral sem virar uma distração."
+            }
+        ]
+    },
+    {
+        "id":"31",
+        "category":"informatica",
+        "title":"Como Instalar um Computador",
+        "img_url":"../assets/images/31.jpg",
+        "description":"Veja como instalar um computador e prepará-lo para usar os sistemas operacionais Windows e Linux.",
+        "text":[
+            {
+                "1":"Primeiro, compre um computador de mesa de alguma loja confiável, pela Internet ou offline. Compre um computador que tenha tudo que você queira.",
+                "2":"Depois, abra a caixa e pegue todos os componentes (CPU, monitor, mouse, teclado, etc).",
+                "3":"Depois disso, coloque o CPU onde você acha que ele vai ficar melhor (sobre uma mesa é um ótimo lugar).",
+                "4":"Agora, conecte os cabos. Você deve ter um cabo VGA ou DVI para o monitor, um cabo de 3,5 mm para os alto-falantes, um cabo PS/2 ou USB para o teclado e para o mouse e um cabo de energia.",
+                "5":"O próximo passo é conectar tudo a um cabo de extensão e conectá-lo a uma tomada."
+            }
+        ]
+    },
+    {
+        "id":"32",
+        "category":"informatica",
+        "title":"Como Instalar um Computador",
+        "img_url":"../assets/images/32.jpg",
+        "description":"Veja como instalar um computador e prepará-lo para usar os sistemas operacionais Windows e Linux.",
+        "text":[
+            {
+                "1":"Primeiro, compre um computador de mesa de alguma loja confiável, pela Internet ou offline. Compre um computador que tenha tudo que você queira.",
+                "2":"Depois, abra a caixa e pegue todos os componentes (CPU, monitor, mouse, teclado, etc).",
+                "3":"Depois disso, coloque o CPU onde você acha que ele vai ficar melhor (sobre uma mesa é um ótimo lugar).",
+                "4":"Agora, conecte os cabos. Você deve ter um cabo VGA ou DVI para o monitor, um cabo de 3,5 mm para os alto-falantes, um cabo PS/2 ou USB para o teclado e para o mouse e um cabo de energia.",
+                "5":"O próximo passo é conectar tudo a um cabo de extensão e conectá-lo a uma tomada."
+            }
+        ]
+    },
+    {
+        "id":"33",
+        "category":"informatica",
+        "title":"Como Limpar o Teclado do seu Computador",
+        "img_url":"../assets/images/33.jpg",
+        "description":"O teclado do computador fica sujo depois de muito usado, mesmo que você não coma ou fume em cima dele.",
+        "text":[
+            {
+                "1":"Desligue o computador e desconecte o teclado. Para proteger o seu equipamento de danos, desligue primeiro o computador antes de limpar o teclado. Se ele tiver um cabo, desconecte-o. Quando não houver como tirar o teclado, como no caso de um notebook, desligue o equipamento da tomada para não haver riscos de choque elétrico.",
+                "2":"Vire o teclado de ponta cabeça para agitá-lo. Coloque-o nessa posição e dê batidinhas para tirar o máximo de resíduos soltos, mas seja delicado. A maior parte das migalhas de comida, sujeira, pelos de animais e fios de cabelo deve cair na hora. Vire o teclado em várias direções e bata na parte de trás dele com um pouco mais de força para soltar a sujeira que você detectar.",
+                "3":"Use jatos de ar comprimido para tirar a poeira e a sujeira das teclas. O ar comprimido é a ferramenta mais confiável para esse tipo de limpeza. Segure a latinha em um ângulo de 45 graus direcionada para o teclado. Passe o spray por todas as teclas em jatos de ar controlados. Sempre deixe o bocal a uma distância de 1,5 cm do teclado.",
+                "4":"Use um aspirador para computador no caso de resíduos difíceis de tirar. O poder de sucção do aparelho é suficiente para tirar a maior parte da sujeira persistente presa entre as teclas. Caso você não tenha um desses, use o aspirador de pó normal com um bocal de escovinha na menor potência. Passe-o por todo o teclado, concentrando-se mais nas áreas em volta das teclas, onde a maior parte da sujeira fica alojada.",
+                "5":"Limpe a região em volta das teclas com um cotonete e álcool isopropílico. Umedeça o cotonete bem de leve para que a umidade não vá parar sob as teclas. Limpe bem a parte entre as teclas, tirando o resto de poeira, oleosidade e até poluição. Repita algumas vezes até o cotonete sair limpo. Vá trocando de cotonete conforme o necessário.",
+                "6":"Esfregue o teclado com um pano umedecido em álcool isopropílico. Escolha um pano que não solte fiapos ou um papel-toalha para não sujar enquanto limpa. O pano também não pode ficar encharcado. Limpe a superfície de cada tecla.",
+                "7":"Finalize o polimento do teclado com um pano que não solte fiapo. Limpe-o mais uma vez para tirar o restinho da poeira e secar a umidade. No fim, ele deve ficar novinho em folha. Se ainda estiver sujo, só desmontando. Ao terminar, conecte-o de volta ao computador e faça um teste."
+            }
+        ]
+    },
+    {
+        "id":"34",
+        "category":"informatica",
+        "title":"Como Reproduzir Músicas com a Alexa",
+        "img_url":"../assets/images/34.jpg",
+        "description":"Leia este artigo para saber como pedir para a Alexa reproduzir músicas em serviços populares, como Amazon Music, Spotify, Pandora, entre outros.",
+        "text":[
+            {
+                "1":"Abra o aplicativo Alexa. Para isso, toque no ícone do aplicativo (um contorno de balão de conversa branco em um fundo azul-claro) em seu dispositivo Android ou iOS e faça login em sua conta da Amazon.",
+                "2":"Toque no botão ☰. Você o verá no canto superior esquerdo da tela. Em seguida, um menu será aberto no lado esquerdo da tela.",
+                "3":"Toque em Music, Video & Books (Música, Vídeo e Livros). Essa opção encontra-se no topo do menu que está abaixo do nome de sua conta.",
+                "4":"Selecione os serviços de música que você deseja vincular. Você verá uma lista de serviços abaixo da seção 'Music' (Música) da página.",
+                "5":"Toque em link your account now (vincular sua conta agora). Feito isso, siga os procedimentos necessários para vincular sua conta. Normalmente, você apenas terá de inserir suas credenciais e fazer login.",
+                "6":"Diga 'Alexa'. Pronuncie em voz alta o comando de acionamento da Alexa para que ela escute seu próximo pedido.",
+                "7":"Peça para a Alexa reproduzir um artista, música, álbum ou gênero. Caso você não especifique o serviço de música desejado, a Alexa usará aquele que está configurado como padrão.",
+                "8":"Controle a reprodução de música. Use comandos de voz para pausar, reproduzir, parar, avançar, retroceder e ajustar o volume da música, da mesma forma que você faz em um aparelho de som ou em um aplicativo de música.",
+                "9":"Faça uma pergunta sobre a música que está tocando. ",
+                "10":"Use comandos de voz para ajudá-lo a encontrar novas músicas ou para tocar músicas que você já escutou antes."
+            }
+        ]
+    },
+    {
+        "id":"35",
+        "category":"saude",
+        "title":"Como Aumentar a Temperatura do Corpo",
+        "img_url":"../assets/images/35.jpg",
+        "description":"Você é predisposto a temperaturas corporais mais baixas? Ou está cuidando de alguém com hipotermia?",
+        "text":[
+            {
+                "1":"Reconheça os sinais da hipotermia. Quando o corpo perde mais calor do que o calor que ele consegue produzir, existe o risco de hipotermia; quando a temperatura cai abaixo dos 35 ºC, os órgãos não conseguem mais funcionar normalmente. [1] Hypothermia can be a serious risk to your life and your health. O frio pode fazê-lo perder a sensação em seus dedos, braços e pernas, e os danos podem ser permanentes. Se achar que está tendo hipotermia, a situação é muito grave e exige que você eleve sua temperatura corporal o mais rapidamente possível.",
+                "2":"Saia do frio. Se a temperatura do corpo estiver caindo drasticamente, você precisará sair do frio. Se estiver em um local aberto, procure um abrigo ou cômodo quente.",
+                "3":"Remova roupas molhadas. Vista o máximo de camadas de roupas quente que puder - não esquecendo da cabeça e do pescoço. Remova algumas roupas, se necessário, caso elas estejam impedindo que você se movimente de forma apropriada.",
+                "4":"Confie no contato humano. Se estiver em um ambiente fechado, enrole-se com outra pessoa sob camadas soltas e secas de cobertores ou roupas. Esta é uma das formas mais eficazes de se estabilizar rapidamente e aumentar a temperatura do corpo.",
+                "5":"Aqueça o núcleo do corpo em primeiro lugar. As extremidades - mãos, pés e dedos - geralmente são as primeiras partes do corpo a ficarem geladas, mas a situação é muito mais grave quando atinge o interior do corpo. Aqueça o torso, a barriga e a virilha para estabilizar a temperatura corporal e acelerar o batimento cardíaco. O sangue quente deve espalhar-se através das veias do corpo."
+            }
+        ]
+    },
+    {
+        "id":"36",
+        "category":"saude",
+        "title":"Como Estralar o Pescoço",
+        "img_url":"../assets/images/36.jpg",
+        "description":"Quem trabalha ou estuda por muitas horas na frente do computador sabe como o pescoço pode ficar rígido às vezes.",
+        "text":[
+            {
+                "1":"Alongue os músculos do pescoço. Massageie lenta e delicadamente o pescoço por alguns minutos para deixar os músculos mais relaxados. Incline o queixo na direção do esterno e segure-o nessa posição por 20 segundos. Em seguida, leve a cabeça para trás e olhe para o teto por mais 20 segundos. Repita o exercícios de três a quatro vezes. Seu pescoço ficará menos duro.",
+                "2":"Envolva o queixo com a palma da mão esquerda. Flexione os dedos de maneira a fazer um copinho com a mão e a coloque no queixo, deixando-o dentro dela. Estique os dedos de maneira que eles cubram o lado esquerdo do rosto, quase chegando a tocar na maçã.",
+                "3":"Posicione a mão direita atrás da cabeça. Flexione o braço direito e posicione confortavelmente a mão direita atrás da cabeça. Pegando com jeito e firmeza, segure a cabeça por trás da orelha esquerda.",
+                "4":"Empurre o queixo para a esquerda e gire a cabeça no sentido anti-horário. Com delicadeza mas sem perder a firmeza, gire a cabeça para a esquerda, com as mãos ainda na mesma posição. Além de empurrar o queixo para a esquerda com a palma da mão, use a outra mão (que está atrás da cabeça) para mover a cabeça no mesmo sentido. Vá forçando aos poucos até que os músculos estejam esticados, mas sem passar do ponto. Não exagere!"
+            }
+        ]
+    },
+    {
+        "id":"37",
+        "category":"saude",
+        "title":"Como Ficar de Pé Corretamente",
+        "img_url":"../assets/images/37.jpg",
+        "description":"Adotar a postura errada afeta os músculos e ligamentos e pode provocar dores e lesões.",
+        "text":[
+            {
+                "1":"Comece nos pés. Eles têm que ficar paralelos aos quadris e ombros, de preferência não cruzados.",
+                "2":"Transfira o peso do corpo para os antepés. Se mantém o peso fora dos pés, você tem a pisada pronada; se o mantém neles, ela é supinada.",
+                "3":"Não trave os joelhos. Eles têm que ficar levemente flexionados, ou você vai aumentar a tensão nas articulações.",
+                "4":"Ajuste a curvatura da coluna. A lombar deve ficar um pouco curvada. Algumas pessoas exageram e acabam desenvolvendo um quadro de hiperlordose — causado quando os músculos do abdômen são fracos ou há muito peso no local.",
+                "5":"Relaxe totalmente os ombros e os braços. Se costuma levantar os ombros, comece a se acostumar a ficar na posição natural.",
+                "6":"Não “arredonde” os ombros. Às vezes, as pessoas ficam de pé e arredondam os ombros, o que pode causar dores nessa região e no pescoço. Fique na frente de um espelho para determinar se é o caso. Relaxe os braços nos lados do corpo; se os nós dos dedos ficarem virados para frente, é porque você está fazendo algo de errado.",
+                "7":"Aproxime as escápulas em cerca de cinco centímetros. Quem trabalha na frente de computadores costuma ficar corcunda. Tente sempre aproximar as escápulas para evitar esses problemas.",
+                "8":"Ande de queixo erguido. Não jogue a cabeça para frente ou para baixo; deixe o queixo sempre paralelo ao chão e em linha reta para frente.[14] Além disso, os seus lóbulos da orelha têm que ficar paralelos aos ombros.",
+                "9":"Faça um teste na parede para determinar como é a sua postura. A coluna vertebral tem três curvas naturais, que criam os pontos perfeitos para as costas tocarem a parede (quando adotamos a postura correta)."
+            }
+        ]
+    },
+    {
+        "id":"38",
+        "category":"saude",
+        "title":"Como Evitar que a Sua Voz Fique Anasalada",
+        "img_url":"../assets/images/38.jpg",
+        "description":"Qualquer pessoa fica constrangida quando sua voz sai anasalada ao falar ou cantar... mas é provável que os outros nem percebam isso!",
+        "text":[
+            {
+                "1":"Comece a bocejar como se você fosse falar 'uuu'. Repita a letra 'u', mas mantenha os lábios nessa posição. Em seguida, inspire pela boca e force o bocejo sem mudar o movimento.",
+                "2":"Expire pelo nariz e diga o som de 'mmm' ou 'hum'. Quando você terminar de inspirar pelos lábios, solte o ar aos poucos pelo nariz. Enquanto isso, repita o som de 'mmm' sem parar. A vibração dos lábios vai ajudar a fechar o seu palato mole.",
+                "3":"Repita esse exercício de cinco a dez vezes para corrigir o palato mole. A sua voz vai ficar muito menos anasalada depois de um bocejo, mas você ainda precisa repetir o exercício algumas vezes para ver resultados melhores. Alterne entre respirar pela boca e pelo nariz para soltar menos ar pelas vias erradas.",
+                "4":"Faça o exercício todos os dias ou antes de falar em público. Esse exercício é simples, mas pode ajudar a deixar a sua voz menos anasalada por um tempo. Se você notar alguma melhora, repita a técnica todos os dias e sempre que for fazer qualquer apresentação em público."
             }
         ]
     }
