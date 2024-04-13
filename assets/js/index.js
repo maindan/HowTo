@@ -3,11 +3,11 @@ function redirectCategory(idCat) {
 }
 
 function redirectPost(postid) {
-    window.location.href = `pages/random.html?postid=${postid}`;
+    window.location.href = `../pages/random.html?postid=${postid}`;
 }
 
 function randomic() {
-    fetch("../assets/posts.json")
+    fetch("./assets/posts.json")
         .then(response => response.json())
         .then(data => {
             let totalItems = data.length;
@@ -16,7 +16,7 @@ function randomic() {
             data.forEach((post) => {
                 if(post.id == id) {
                     console.log("cheguei aqui")
-                    window.location.href = `./pages/random.html?postid=${post.id}`;
+                    window.location.href = `../pages/random.html?postid=${post.id}`;
                 }
             })
         });
