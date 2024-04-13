@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <div class="card-custom-bottom gap-2 w-100 justify-content-start"
                 style="display: flex; align-items: center; color: #F8F9FA">
-                <img src="../assets/images/avatar.png" alt="" class="img-fluid" style="width: 2.5rem;">
+                <img src="./assets/images/avatar.png" alt="" class="img-fluid" style="width: 2.5rem;">
                 <div style="display: flex; flex-direction: column; line-height: 0.2rem;">
                     <h6>Daniel Lima</h6>
                     <p>Admin</p>

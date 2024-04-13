@@ -1,0 +1,70 @@
+[
+    {
+        "id":"1",
+        "category":"animais",
+        "title":"Como Brincar Com Seu Coelho de Estimação",
+        "img_url":"../assets/images/1.jpg",
+        "description":"Há uma série de truques que pode usar para entretê-lo.",
+        "text":[
+            {
+                "1":"Conheça o seu coelho. A personalidade de um coelho determina quais brinquedos eles gostam ou não gostam. Antes de começar a reunir itens para ele, tente descobrir as suas preferências. Se souber os estímulos aos quais ele responde, você vai conseguir planejar melhor a hora da diversão.",
+                "2":"Escolha brinquedos para quando estiver em casa. Pegue alguns tipos de brinquedos que possa usar para brincar com o coelho em casa. Baseie sua escolha na personalidade específica do seu bichinho de estimação.",
+                "3":"Escolha um brinquedo para quando não estiver em casa. Brincar com seu bichinho é muito legal, mas você precisa mantê-lo entretido até quando estiver fora. Desta forma, o coelho não vai ficar estressado por conta de sua ausência e não vai morder ou mastigar tudo, ou ser destrutivo de outro jeito."
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "category":"animais",
+        "title":"Como Dar um Banho em Seu Hamster",
+        "img_url":"../assets/images/2.jpg",
+        "description":"Seu quarto está fedendo a chiqueiro por causa da gaiola do seu hamster?",
+        "text":[
+            {
+                "1":"Evite dar banho no seu hamster, se possível. Só faça isso se algo estiver grudado no pelo ou se ele tiver entrado em contato com algum produto químico tóxico. O banho com água remove os óleos naturais dele e pode fazer muito mal!",
+                "2":"Limpe a gaiola com mais frequência. A melhor forma de lidar com um hamster malcheiroso é limpar a gaiola mais vezes. Antes apelar para um banho, mude a rotina de limpeza e veja se o odor melhora.",
+                "3":"Veja se seu hamster realmente precisa de um banho. Isso só deve ser feito se houver algo no pelo dele que possa prejudicá-lo, como uma substância tóxica ou grudenta, ou ainda alguma coisa com a qual ele possa se engasgar ao tentar limpar sozinho.",
+                "":"",
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "category":"animais",
+        "title":"Título",
+        "img_url":"../assets/images/duck1.jpg",
+        "description":"lalaland lalaland lalaland",
+        "text":[
+            {
+                "1":"sadjklcnjksdcd",
+                "2":"aaaaaaaaaaaaa"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "category":"animais",
+        "title":"Título",
+        "img_url":"../assets/images/duck1.jpg",
+        "description":"lalaland lalaland lalaland",
+        "text":[
+            {
+                "1":"sadjklcnjksdcd",
+                "2":"aaaaaaaaaaaaa"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "category":"animais",
+        "title":"Título",
+        "img_url":"../assets/images/duck1.jpg",
+        "description":"lalaland lalaland lalaland",
+        "text":[
+            {
+                "1":"sadjklcnjksdcd",
+                "2":"aaaaaaaaaaaaa"
+            }
+        ]
+    }
+]
