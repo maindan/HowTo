@@ -10,7 +10,6 @@
 #### O tema do projeto era criar um site de tutoriais Do It Yourself (faça você mesmo), contendo 3 páginas, utilizando o framework bootstrap e tendo seu depoloy realizado no github pages.
 
 <img src="https://i.ibb.co/6bvGTqJ/Captura-de-tela-2024-04-13-161524.png"></img>
-<hr>
 
 #### O projeto contém 4 páginas, index (principal), aleatório (que renderiza um post aleatório), uma página de categorias e um página para enviar post, que não teve seu desenvolvimento lógico implementado pois o projeto tem como foco apenas o front-end.
 
