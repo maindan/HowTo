@@ -94,14 +94,14 @@ document.addEventListener("DOMContentLoaded", () => {
         `;
 
         let card2 = `
-        <div class="container cat-card mt-2 d-flex-col d-flex gap-2 p-3 justify-content-center align-content-center flex-lg-row align-items-center">
-            <img src="${img_url}" alt="" class="img-fluid rounded-3"
-                style="height: 200px;">
+        <div class="container cat-card mt-2 d-flex-col d-flex gap-2 p-3 justify-content-center flex-column flex-md-row align-content-md-between">
+            <img src="${img_url}" alt="" class="img-fluid rounded-3 mx-auto"
+                style="width: 400px;">
             <div class="container mt-2 mt-lg-0 d-flex flex-column">
                 <h4>${titulo}</h4>
                 <p>${description}</p>
-                <a href="#" class="btn btn-primary" style="width: 8rem" onClick="redirectPost(${postid})">Acesse</a>
-                <hr>
+                <a href="#" class="btn btn-primary mb-md-5" style="width: 8rem" onClick="redirectPost(${postid})">Acesse</a>
+                <hr class="mt-md-5">
                 <a href="#" class="text-black" style="text-decoration: none;" onClick="redirectCategory('${cat}')">${cat}</a>
             </div>
         </div>
