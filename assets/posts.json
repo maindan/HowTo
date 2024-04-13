@@ -524,22 +524,6 @@
         ]
     },
     {
-        "id":"32",
-        "category":"informatica",
-        "title":"Como Instalar um Computador",
-        "img_url":"../assets/images/32.jpg",
-        "description":"Veja como instalar um computador e prepará-lo para usar os sistemas operacionais Windows e Linux.",
-        "text":[
-            {
-                "1":"Primeiro, compre um computador de mesa de alguma loja confiável, pela Internet ou offline. Compre um computador que tenha tudo que você queira.",
-                "2":"Depois, abra a caixa e pegue todos os componentes (CPU, monitor, mouse, teclado, etc).",
-                "3":"Depois disso, coloque o CPU onde você acha que ele vai ficar melhor (sobre uma mesa é um ótimo lugar).",
-                "4":"Agora, conecte os cabos. Você deve ter um cabo VGA ou DVI para o monitor, um cabo de 3,5 mm para os alto-falantes, um cabo PS/2 ou USB para o teclado e para o mouse e um cabo de energia.",
-                "5":"O próximo passo é conectar tudo a um cabo de extensão e conectá-lo a uma tomada."
-            }
-        ]
-    },
-    {
         "id":"33",
         "category":"informatica",
         "title":"Como Limpar o Teclado do seu Computador",
