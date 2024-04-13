@@ -1,5 +1,5 @@
 function redirectCategory(idCat) {
-    window.location.href = `../pages/categoria.html?categoria=${idCat}`;
+    window.location.href = `./pages/categoria.html?categoria=${idCat}`;
 }
 
 function redirectPost(postid) {
