@@ -13,6 +13,26 @@ function redirectPost(postid) {
     window.location.href = `./random.html?postid=${postid}`;
 }
 
+function randomic() {
+    fetch("../assets/posts.json")
+        .then(response => response.json())
+        .then(data => {
+            let totalItems = data.length;
+            let id = getRandomInt(totalItems);
+            console.log("entrei no fetch")
+            data.forEach((post) => {
+                if(post.id == id) {
+                    console.log("cheguei aqui")
+                    window.location.href = `../pages/random.html?postid=${post.id}`;
+                }
+            })
+        });
+}
+
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     const contCards = document.querySelector(".container-cards");
     const contPost = document.querySelector(".container-post");

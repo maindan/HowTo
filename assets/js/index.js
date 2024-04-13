@@ -6,6 +6,26 @@ function redirectPost(postid) {
     window.location.href = `./pages/random.html?postid=${postid}`;
 }
 
+function randomic() {
+    fetch("./assets/posts.json")
+        .then(response => response.json())
+        .then(data => {
+            let totalItems = data.length;
+            let id = getRandomInt(totalItems);
+            console.log("entrei no fetch")
+            data.forEach((post) => {
+                if(post.id == id) {
+                    console.log("cheguei aqui")
+                    window.location.href = `../pages/random.html?postid=${post.id}`;
+                }
+            })
+        });
+}
+
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
 
     const contCards = document.querySelector(".container-cards");
@@ -31,8 +51,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     recomendados.push(value);
                 }
             }
-            console.log(items)
-            console.log(recomendados)
             data.forEach((post) => {
                 items.forEach((item) => {
                     if (post.id == item) {
@@ -92,16 +110,5 @@ document.addEventListener("DOMContentLoaded", () => {
         const cards = [card1, card2]
         
         return cards;
-    }
-
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
-
-    function randomic() {
-        // let rand = [0, 1, 2, 3, 4, 5, 6]
-        // let n = getRandomInt(10)
-        // console.log(n)
-        redirectPost(5)
     }
 })
